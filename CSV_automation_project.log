@@ -1,0 +1,158 @@
+2025-12-11 19:18:44,162 - ERROR - File is not found. Please try again.
+2025-12-11 20:04:54,519 - ERROR - Failed to add DataFrame 'DataFrame' object has no attribute 'combined_data'
+2025-12-11 20:07:00,895 - ERROR - Failed to add DataFrame 'DataFrame' object has no attribute 'combined_data'
+2025-12-11 20:11:44,210 - ERROR - Failed to add DataFrame 'DataFrame' object has no attribute 'combined_data'
+2025-12-11 20:13:50,365 - ERROR - Failed to add DataFrame 'DataFrame' object has no attribute 'combined_data'
+2025-12-11 20:14:47,226 - ERROR - Failed to add DataFrame 'DataFrame' object has no attribute 'combined_data'
+2025-12-11 20:15:01,473 - ERROR - Failed to add DataFrame 'DataFrame' object has no attribute 'combined_data'
+2025-12-11 20:18:48,279 - ERROR - Failed to add DataFrame 'DataFrame' object has no attribute 'combined_data'
+2025-12-11 20:19:40,644 - ERROR - Failed to add DataFrame 'DataFrame' object has no attribute 'combined_data'
+2025-12-11 20:24:41,900 - ERROR - Failed to add DataFrame 'int' object has no attribute 'data' and no __dict__ for setting new attributes
+2025-12-11 20:27:06,584 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-11 20:27:06,584 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-11 20:27:06,584 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-11 20:27:33,755 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-11 20:27:33,756 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-11 20:27:33,756 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-11 20:28:00,156 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-11 20:28:00,156 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-11 20:28:00,156 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-14 17:19:11,317 - ERROR - Failed to add DataFrame 0
+2025-12-14 17:19:35,681 - ERROR - Failed to add DataFrame 0
+2025-12-14 17:20:07,237 - ERROR - Failed to add DataFrame 0
+2025-12-14 17:24:30,044 - ERROR - Failed to add DataFrame 0
+2025-12-14 17:26:45,103 - ERROR - Failed to add DataFrame 0
+2025-12-14 17:32:11,977 - ERROR - Failed to add DataFrame Cleaner.combine_files() missing 1 required positional argument: 'Reader'
+2025-12-14 17:43:25,676 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-14 17:44:01,905 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-14 17:45:25,753 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-14 17:45:50,872 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-14 17:46:33,917 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-14 17:49:16,166 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-14 17:49:40,340 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-14 17:56:18,771 - ERROR - Failed to add DataFrame 'RangeIndex' object cannot be interpreted as an integer
+2025-12-14 18:02:57,697 - ERROR - Failed to add DataFrame "None of [Index([0], dtype='int64')] are in the [columns]"
+2025-12-14 18:03:09,739 - ERROR - Failed to add DataFrame 0
+2025-12-14 18:04:00,156 - ERROR - Failed to add DataFrame (0, slice(None, None, None))
+2025-12-14 18:04:37,548 - ERROR - Failed to add DataFrame (0, slice(None, None, None))
+2025-12-14 18:06:33,796 - ERROR - Failed to add DataFrame 0
+2025-12-14 18:07:06,797 - ERROR - Failed to add DataFrame (0, slice(None, None, None))
+2025-12-14 18:08:35,075 - ERROR - Failed to add DataFrame (0, slice(None, None, None))
+2025-12-14 18:08:58,895 - ERROR - Failed to add DataFrame 0
+2025-12-14 18:13:33,003 - ERROR - Failed to add DataFrame (0, slice(None, None, None))
+2025-12-14 18:14:39,568 - ERROR - Failed to add DataFrame (0, 1)
+2025-12-14 18:29:56,948 - ERROR - Failed to add DataFrame 'DataFrame' object has no attribute 'insa'
+2025-12-14 18:30:15,861 - ERROR - Failed to add DataFrame 'DataFrame' object has no attribute 'insa'
+2025-12-14 18:31:20,179 - ERROR - Failed to add DataFrame DataFrame.isnull() takes 1 positional argument but 2 were given
+2025-12-14 18:37:59,346 - ERROR - Failed to add DataFrame 'Cleaner' object has no attribute 'combined_dat'
+2025-12-14 18:38:30,825 - ERROR - Failed to add DataFrame could not convert string to float: 'abc'
+2025-12-14 19:29:11,616 - ERROR - Failed to add DataFrame 'DataFrame' object is not callable
+2025-12-15 17:52:03,721 - INFO - Cleaner started.
+2025-12-15 17:52:03,722 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:52:03,723 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:52:10,681 - INFO - Cleaner started.
+2025-12-15 17:52:10,681 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:52:10,681 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:52:48,957 - INFO - Cleaner started.
+2025-12-15 17:52:48,962 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:52:48,962 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:52:57,815 - INFO - Cleaner started.
+2025-12-15 17:52:57,816 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:52:57,816 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:53:23,203 - INFO - Cleaner started.
+2025-12-15 17:53:23,204 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:53:23,204 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:53:56,890 - INFO - Cleaner started.
+2025-12-15 17:53:56,890 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:53:56,890 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:54:45,933 - INFO - Cleaner started.
+2025-12-15 17:54:45,934 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:54:45,934 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:55:53,938 - INFO - Cleaner started.
+2025-12-15 17:55:53,938 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:55:53,938 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:56:40,511 - INFO - Cleaner started.
+2025-12-15 17:56:40,512 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:56:40,512 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:57:35,746 - INFO - Cleaner started.
+2025-12-15 17:57:35,747 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:57:35,747 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:57:51,152 - INFO - Cleaner started.
+2025-12-15 17:57:51,152 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:57:51,152 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:59:16,830 - INFO - Cleaner started.
+2025-12-15 17:59:16,831 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 17:59:16,831 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:00:24,531 - INFO - Cleaner started.
+2025-12-15 18:00:24,531 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:00:24,532 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:01:01,709 - INFO - Cleaner started.
+2025-12-15 18:01:01,709 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:01:01,709 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:01:19,348 - INFO - Cleaner started.
+2025-12-15 18:01:19,349 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:01:19,349 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:01:46,319 - INFO - Cleaner started.
+2025-12-15 18:01:46,320 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:01:46,320 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:02:14,144 - INFO - Cleaner started.
+2025-12-15 18:02:14,144 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:02:14,145 - ERROR - Failed to add DataFrame: 'function' object has no attribute 'empty'
+2025-12-15 18:03:08,495 - INFO - Cleaner started.
+2025-12-15 18:03:26,857 - INFO - Cleaner started.
+2025-12-15 18:03:52,148 - INFO - Cleaner started.
+2025-12-15 18:05:28,639 - INFO - Cleaner started.
+2025-12-15 18:07:47,470 - INFO - Cleaner started.
+2025-12-15 18:08:21,209 - INFO - Cleaner started.
+2025-12-15 18:09:37,554 - INFO - Cleaner started.
+2025-12-15 18:14:35,190 - INFO - Cleaner started.
+2025-12-15 18:14:55,332 - INFO - Cleaner started.
+2025-12-15 18:20:43,957 - INFO - Cleaner started.
+2025-12-15 18:21:13,207 - INFO - Cleaner started.
+2025-12-15 18:21:32,442 - INFO - Cleaner started.
+2025-12-15 18:23:13,329 - INFO - Cleaner started.
+2025-12-15 18:23:35,367 - INFO - Cleaner started.
+2025-12-15 18:26:32,865 - INFO - Cleaner started.
+2025-12-18 15:24:43,302 - INFO - Cleaner started.
+2025-12-18 15:25:06,538 - INFO - Cleaner started.
+2025-12-18 15:26:24,248 - INFO - Cleaner started.
+2025-12-18 15:29:55,094 - INFO - Cleaner started.
+2025-12-18 15:30:24,198 - INFO - Cleaner started.
+2025-12-18 15:41:13,031 - INFO - Cleaner started.
+2025-12-18 15:41:45,836 - INFO - Cleaner started.
+2025-12-18 15:42:11,443 - INFO - Cleaner started.
+2025-12-18 15:42:46,898 - INFO - Cleaner started.
+2025-12-18 15:43:45,265 - INFO - Cleaner started.
+2025-12-18 15:44:12,678 - INFO - Cleaner started.
+2025-12-18 15:44:45,726 - INFO - Cleaner started.
+2025-12-18 15:45:34,372 - INFO - Cleaner started.
+2025-12-18 15:45:55,511 - INFO - Cleaner started.
+2025-12-18 15:54:45,222 - INFO - Cleaner started.
+2025-12-18 15:56:08,974 - INFO - Cleaner started.
+2025-12-18 16:00:35,270 - INFO - Cleaner started.
+2025-12-18 16:02:53,907 - INFO - Cleaner started.
+2025-12-18 16:03:36,013 - INFO - Cleaner started.
+2025-12-18 16:12:04,345 - INFO - Cleaner started.
+2025-12-18 16:12:24,873 - INFO - Cleaner started.
+2025-12-18 16:12:39,567 - INFO - Cleaner started.
+2025-12-18 16:32:06,191 - INFO - Cleaner started.
+2025-12-18 16:32:06,196 - INFO - There were 2 rows removed.
+2025-12-18 16:32:06,201 - INFO - The date and time was filled out on 2025-12-18 16:32:06.201143.
+2025-12-18 16:35:22,522 - INFO - Cleaner started.
+2025-12-18 16:35:22,527 - INFO - There were 2 rows removed.
+2025-12-18 16:35:22,531 - INFO - The date and time was filled out on 2025-12-18 16:35:22.531930.
+2025-12-18 16:41:58,287 - INFO - Cleaner started.
+2025-12-18 16:41:58,292 - INFO - There were 2 rows removed.
+2025-12-18 16:41:58,296 - INFO - The date and time was filled out on 2025-12-18 16:41:58.296438.
+2025-12-18 16:44:22,942 - INFO - Cleaner started.
+2025-12-18 16:44:22,942 - ERROR - file that needs to be combined is not a DataFrame
+2025-12-18 16:44:22,943 - ERROR - file that needs to be combined is not a DataFrame
+2025-12-18 16:44:22,943 - ERROR - Failed to add DataFrame: type object 'Reader' has no attribute 'empty'
+2025-12-18 16:44:22,943 - ERROR - file that needs to be combined is not a DataFrame
+2025-12-18 16:44:22,943 - ERROR - Failed to add DataFrame: type object 'Reader' has no attribute 'empty'
+2025-12-18 16:45:12,747 - INFO - Cleaner started.
+2025-12-18 16:45:12,753 - INFO - There were 2 rows removed.
+2025-12-18 16:45:12,758 - INFO - The date and time was filled out on 2025-12-18 16:45:12.758630.
+2025-12-18 16:46:18,394 - INFO - Cleaner started.
+2025-12-18 16:46:18,400 - INFO - There were 2 rows removed.
+2025-12-18 16:46:18,405 - INFO - The date and time was filled out on 2025-12-18 16:46:18.404972.
