@@ -13,7 +13,9 @@ The goal of this project is to demonstrate:
 - Writing clean, reusable Python code
 
 This project was built as part of a structured learning path towards a software / data engineering role.
+
 ----
+
 ## ⚙️ Features
 
 ✔ Automatically reads multiple CSV files
@@ -27,5 +29,5 @@ This project was built as part of a structured learning path towards a software 
 - Handles invalid timestamps
  
     ✔ Exports the cleaned dataset to an Excel file
-    
+
     ✔ Logs important actions and errors
