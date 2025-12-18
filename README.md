@@ -17,11 +17,15 @@ This project was built as part of a structured learning path towards a software 
 ## ⚙️ Features
 
 ✔ Automatically reads multiple CSV files
+
 ✔ Combines all files into a single DataFrame
+
 ✔ Cleans and standardizes the data:
 - Normalizes column names
 - Removes empty rows
 - Fixes incorrect data types
 - Handles invalid timestamps
+ 
     ✔ Exports the cleaned dataset to an Excel file
+    
     ✔ Logs important actions and errors
