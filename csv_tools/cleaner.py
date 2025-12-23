@@ -55,7 +55,7 @@ class Cleaner:
 
         # Removing the values that are incorrect
         df['value'] = pd.to_numeric(df['value'], errors="coerce")
-        df_clean = df.dropna(axis='rows')
+        df_clean = df.dropna()
         df_rows_removed = len(df['value']) - len(df_clean['value'])
         logger.info('There were %s rows removed.',df_rows_removed)
                 
@@ -64,4 +64,5 @@ class Cleaner:
         df_clean["timestamp"] = df_clean["timestamp"].fillna(pd.Timestamp.now())
         logger.info('The date and time was filled out on %s.',pd.Timestamp.now())    
 
-        df_clean.to_excel("Sensor_clean_data.xlsx")
+        df_clean.to_excel("C:/Users/Tessa/OneDrive/Documenten/Python Scripts/Sensor Project/Sensor_clean_data.xlsx")
+        return df_clean

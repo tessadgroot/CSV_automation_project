@@ -156,3 +156,714 @@
 2025-12-18 16:46:18,394 - INFO - Cleaner started.
 2025-12-18 16:46:18,400 - INFO - There were 2 rows removed.
 2025-12-18 16:46:18,405 - INFO - The date and time was filled out on 2025-12-18 16:46:18.404972.
+2025-12-22 19:42:40,876 - ERROR - File is not found. Please try again.
+2025-12-22 19:45:31,180 - ERROR - File is not found. Please try again.
+2025-12-22 19:45:43,076 - ERROR - File is not found. Please try again.
+2025-12-22 19:48:52,195 - INFO - Cleaner started.
+2025-12-22 19:48:52,201 - INFO - There were 2 rows removed.
+2025-12-22 19:48:52,207 - INFO - The date and time was filled out on 2025-12-22 19:48:52.207475.
+2025-12-22 19:51:06,547 - INFO - Cleaner started.
+2025-12-22 19:51:06,551 - INFO - There were 2 rows removed.
+2025-12-22 19:51:06,556 - INFO - The date and time was filled out on 2025-12-22 19:51:06.556104.
+2025-12-22 19:56:04,514 - INFO - Cleaner started.
+2025-12-22 19:56:04,518 - INFO - There were 2 rows removed.
+2025-12-22 19:56:04,523 - INFO - The date and time was filled out on 2025-12-22 19:56:04.523115.
+2025-12-22 19:57:16,130 - INFO - Cleaner started.
+2025-12-22 19:57:16,135 - INFO - There were 2 rows removed.
+2025-12-22 19:57:16,140 - INFO - The date and time was filled out on 2025-12-22 19:57:16.140513.
+2025-12-22 19:57:43,224 - INFO - Cleaner started.
+2025-12-22 19:57:43,229 - INFO - There were 2 rows removed.
+2025-12-22 19:57:43,235 - INFO - The date and time was filled out on 2025-12-22 19:57:43.235229.
+2025-12-22 19:59:17,111 - INFO - Cleaner started.
+2025-12-22 19:59:17,116 - INFO - There were 2 rows removed.
+2025-12-22 19:59:17,122 - INFO - The date and time was filled out on 2025-12-22 19:59:17.122788.
+2025-12-22 20:00:53,800 - INFO - Cleaner started.
+2025-12-22 20:00:53,804 - INFO - There were 2 rows removed.
+2025-12-22 20:00:53,808 - INFO - The date and time was filled out on 2025-12-22 20:00:53.808553.
+2025-12-22 20:02:03,059 - INFO - Cleaner started.
+2025-12-22 20:02:03,066 - INFO - There were 2 rows removed.
+2025-12-22 20:02:03,071 - INFO - The date and time was filled out on 2025-12-22 20:02:03.071067.
+2025-12-22 20:02:28,690 - INFO - Cleaner started.
+2025-12-22 20:02:28,697 - INFO - There were 2 rows removed.
+2025-12-22 20:02:28,703 - INFO - The date and time was filled out on 2025-12-22 20:02:28.702996.
+2025-12-22 20:04:23,805 - INFO - Cleaner started.
+2025-12-22 20:04:23,810 - INFO - There were 2 rows removed.
+2025-12-22 20:04:23,816 - INFO - The date and time was filled out on 2025-12-22 20:04:23.816447.
+2025-12-22 20:06:00,551 - INFO - Cleaner started.
+2025-12-22 20:06:00,556 - INFO - There were 2 rows removed.
+2025-12-22 20:06:00,561 - INFO - The date and time was filled out on 2025-12-22 20:06:00.561425.
+2025-12-22 20:07:46,110 - INFO - Cleaner started.
+2025-12-22 20:07:46,114 - INFO - There were 2 rows removed.
+2025-12-22 20:07:46,118 - INFO - The date and time was filled out on 2025-12-22 20:07:46.118815.
+2025-12-22 20:08:07,007 - INFO - Cleaner started.
+2025-12-22 20:08:07,012 - INFO - There were 2 rows removed.
+2025-12-22 20:08:07,017 - INFO - The date and time was filled out on 2025-12-22 20:08:07.016975.
+2025-12-22 20:13:02,158 - INFO - Cleaner started.
+2025-12-22 20:13:02,162 - INFO - There were 2 rows removed.
+2025-12-22 20:13:02,166 - INFO - The date and time was filled out on 2025-12-22 20:13:02.166911.
+2025-12-22 20:13:43,729 - INFO - Cleaner started.
+2025-12-22 20:13:43,735 - INFO - There were 2 rows removed.
+2025-12-22 20:13:43,741 - INFO - The date and time was filled out on 2025-12-22 20:13:43.741076.
+2025-12-22 20:14:28,288 - INFO - Cleaner started.
+2025-12-22 20:14:28,292 - INFO - There were 2 rows removed.
+2025-12-22 20:14:28,299 - INFO - The date and time was filled out on 2025-12-22 20:14:28.299136.
+2025-12-22 20:14:58,664 - INFO - Cleaner started.
+2025-12-22 20:14:58,668 - INFO - There were 2 rows removed.
+2025-12-22 20:14:58,672 - INFO - The date and time was filled out on 2025-12-22 20:14:58.672423.
+2025-12-22 21:02:39,696 - INFO - Cleaner started.
+2025-12-22 21:02:39,700 - INFO - There were 2 rows removed.
+2025-12-22 21:02:39,705 - INFO - The date and time was filled out on 2025-12-22 21:02:39.705085.
+2025-12-22 21:02:48,685 - INFO - Cleaner started.
+2025-12-22 21:02:48,689 - INFO - There were 2 rows removed.
+2025-12-22 21:02:48,694 - INFO - The date and time was filled out on 2025-12-22 21:02:48.694313.
+2025-12-22 21:02:48,917 - INFO - BEGIN (implicit)
+2025-12-22 21:02:48,917 - INFO - PRAGMA main.table_info("sensordata")
+2025-12-22 21:02:48,917 - INFO - [raw sql] ()
+2025-12-22 21:02:48,918 - INFO - PRAGMA temp.table_info("sensordata")
+2025-12-22 21:02:48,919 - INFO - [raw sql] ()
+2025-12-22 21:02:48,920 - INFO - 
+CREATE TABLE sensordata (
+	sensor_id INTEGER NOT NULL, 
+	value FLOAT, 
+	status VARCHAR, 
+	timestamp DATETIME, 
+	PRIMARY KEY (sensor_id)
+)
+
+
+2025-12-22 21:02:48,920 - INFO - [no key 0.00053s] ()
+2025-12-22 21:02:48,929 - INFO - COMMIT
+2025-12-22 21:05:40,462 - INFO - Cleaner started.
+2025-12-22 21:05:40,466 - INFO - There were 2 rows removed.
+2025-12-22 21:05:40,470 - INFO - The date and time was filled out on 2025-12-22 21:05:40.470121.
+2025-12-22 21:06:39,508 - INFO - Cleaner started.
+2025-12-22 21:06:39,511 - INFO - There were 2 rows removed.
+2025-12-22 21:06:39,515 - INFO - The date and time was filled out on 2025-12-22 21:06:39.515753.
+2025-12-22 21:18:00,500 - INFO - Cleaner started.
+2025-12-22 21:18:00,504 - INFO - There were 2 rows removed.
+2025-12-22 21:18:00,510 - INFO - The date and time was filled out on 2025-12-22 21:18:00.510168.
+2025-12-22 21:18:28,787 - INFO - Cleaner started.
+2025-12-22 21:18:28,791 - INFO - There were 2 rows removed.
+2025-12-22 21:18:28,796 - INFO - The date and time was filled out on 2025-12-22 21:18:28.795941.
+2025-12-22 21:18:29,016 - INFO - BEGIN (implicit)
+2025-12-22 21:18:29,019 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-22 21:18:29,020 - INFO - [generated in 0.00025s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-22 21:18:29,040 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-22 21:18:29,041 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-22 21:18:29,041 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-22 21:18:29,041 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-22 21:18:29,041 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-22 21:18:29,042 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-22 21:18:29,042 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-22 21:18:29,042 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-22 21:18:29,042 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-22 21:18:29,043 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-22 21:18:29,043 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-22 21:18:29,043 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-22 21:18:29,043 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-22 21:18:29,044 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-22 21:18:29,044 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-22 21:18:29,044 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-22 21:18:28.795139')
+2025-12-22 21:18:29,045 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-22 21:18:29,045 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-22 21:18:29,046 - INFO - COMMIT
+2025-12-23 10:11:36,256 - INFO - Cleaner started.
+2025-12-23 10:11:36,266 - INFO - There were 2 rows removed.
+2025-12-23 10:11:36,272 - INFO - The date and time was filled out on 2025-12-23 10:11:36.272597.
+2025-12-23 10:11:36,505 - INFO - BEGIN (implicit)
+2025-12-23 10:11:36,507 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:11:36,507 - INFO - [generated in 0.00051s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 10:11:36,509 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:11:36,509 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 10:11:36,510 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:11:36,510 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 10:11:36,510 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:11:36,510 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 10:11:36,510 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:11:36,510 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 10:11:36,511 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:11:36,511 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 10:11:36,512 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:11:36,513 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 10:11:36,514 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:11:36,514 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 10:11:36,514 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:11:36,514 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 10:11:36.271190')
+2025-12-23 10:11:36,515 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:11:36,515 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 10:11:36,515 - INFO - COMMIT
+2025-12-23 10:27:23,699 - INFO - Cleaner started.
+2025-12-23 10:27:23,702 - INFO - There were 2 rows removed.
+2025-12-23 10:27:23,705 - INFO - The date and time was filled out on 2025-12-23 10:27:23.705419.
+2025-12-23 10:27:23,865 - INFO - BEGIN (implicit)
+2025-12-23 10:27:23,866 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:27:23,867 - INFO - [generated in 0.00016s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 10:27:23,869 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:27:23,869 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 10:27:23,869 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:27:23,870 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 10:27:23,870 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:27:23,870 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 10:27:23,870 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:27:23,871 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 10:27:23,871 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:27:23,871 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 10:27:23,871 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:27:23,871 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 10:27:23,872 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:27:23,872 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 10:27:23,872 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:27:23,872 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 10:27:23.704881')
+2025-12-23 10:27:23,872 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:27:23,872 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 10:27:23,873 - INFO - COMMIT
+2025-12-23 10:28:48,609 - INFO - Cleaner started.
+2025-12-23 10:28:48,612 - INFO - There were 2 rows removed.
+2025-12-23 10:28:48,624 - INFO - The date and time was filled out on 2025-12-23 10:28:48.624168.
+2025-12-23 10:28:48,783 - INFO - BEGIN (implicit)
+2025-12-23 10:28:48,785 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:28:48,785 - INFO - [generated in 0.00018s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 10:28:48,788 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:28:48,788 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 10:28:48,788 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:28:48,788 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 10:28:48,788 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:28:48,789 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 10:28:48,789 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:28:48,789 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 10:28:48,789 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:28:48,790 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 10:28:48,790 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:28:48,790 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 10:28:48,790 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:28:48,790 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 10:28:48,790 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:28:48,791 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 10:28:48.623541')
+2025-12-23 10:28:48,791 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:28:48,791 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 10:28:48,792 - INFO - COMMIT
+2025-12-23 10:33:31,534 - INFO - Cleaner started.
+2025-12-23 10:33:31,538 - INFO - There were 2 rows removed.
+2025-12-23 10:33:31,541 - INFO - The date and time was filled out on 2025-12-23 10:33:31.541833.
+2025-12-23 10:33:31,692 - INFO - BEGIN (implicit)
+2025-12-23 10:33:31,694 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:33:31,694 - INFO - [generated in 0.00016s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 10:33:31,696 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:33:31,698 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 10:33:31,700 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:33:31,701 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 10:33:31,701 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:33:31,702 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 10:33:31,703 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:33:31,703 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 10:33:31,703 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:33:31,703 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 10:33:31,703 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:33:31,704 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 10:33:31,704 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:33:31,704 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 10:33:31,705 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:33:31,705 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 10:33:31.540962')
+2025-12-23 10:33:31,705 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:33:31,705 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 10:33:31,706 - INFO - COMMIT
+2025-12-23 10:34:31,470 - INFO - Cleaner started.
+2025-12-23 10:34:31,472 - INFO - There were 2 rows removed.
+2025-12-23 10:34:31,475 - INFO - The date and time was filled out on 2025-12-23 10:34:31.475416.
+2025-12-23 10:34:31,628 - INFO - BEGIN (implicit)
+2025-12-23 10:34:31,630 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:34:31,630 - INFO - [generated in 0.00017s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 10:34:31,632 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:34:31,632 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 10:34:31,633 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:34:31,633 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 10:34:31,634 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:34:31,634 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 10:34:31,634 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:34:31,634 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 10:34:31,635 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:34:31,635 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 10:34:31,635 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:34:31,636 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 10:34:31,636 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:34:31,636 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 10:34:31,637 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:34:31,637 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 10:34:31.474950')
+2025-12-23 10:34:31,637 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:34:31,638 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 10:34:31,638 - INFO - COMMIT
+2025-12-23 10:54:38,153 - INFO - Cleaner started.
+2025-12-23 10:54:38,156 - INFO - There were 2 rows removed.
+2025-12-23 10:54:38,158 - INFO - The date and time was filled out on 2025-12-23 10:54:38.158745.
+2025-12-23 10:54:38,342 - INFO - BEGIN (implicit)
+2025-12-23 10:54:38,344 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:54:38,345 - INFO - [generated in 0.00016s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 10:54:38,347 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:54:38,347 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 10:54:38,348 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:54:38,348 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 10:54:38,348 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:54:38,348 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 10:54:38,348 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:54:38,348 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 10:54:38,348 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:54:38,348 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 10:54:38,348 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:54:38,348 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 10:54:38,349 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:54:38,349 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 10:54:38,349 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:54:38,349 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 10:54:38.158232')
+2025-12-23 10:54:38,349 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:54:38,349 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 10:54:38,350 - INFO - COMMIT
+2025-12-23 10:55:31,329 - INFO - Cleaner started.
+2025-12-23 10:55:31,331 - INFO - There were 2 rows removed.
+2025-12-23 10:55:31,334 - INFO - The date and time was filled out on 2025-12-23 10:55:31.334599.
+2025-12-23 10:55:31,501 - INFO - BEGIN (implicit)
+2025-12-23 10:55:31,503 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:55:31,503 - INFO - [generated in 0.00016s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 10:55:31,505 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:55:31,505 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 10:55:31,505 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:55:31,505 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 10:55:31,505 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:55:31,506 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 10:55:31,506 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:55:31,506 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 10:55:31,507 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:55:31,507 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 10:55:31,507 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:55:31,508 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 10:55:31,508 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:55:31,508 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 10:55:31,511 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:55:31,511 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 10:55:31.333820')
+2025-12-23 10:55:31,512 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 10:55:31,512 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 10:55:31,513 - INFO - COMMIT
+2025-12-23 11:37:00,440 - INFO - Cleaner started.
+2025-12-23 11:37:00,453 - INFO - There were 2 rows removed.
+2025-12-23 11:37:00,461 - INFO - The date and time was filled out on 2025-12-23 11:37:00.461665.
+2025-12-23 11:37:00,840 - INFO - BEGIN (implicit)
+2025-12-23 11:37:00,842 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:37:00,843 - INFO - [generated in 0.00052s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 11:37:00,845 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:37:00,845 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 11:37:00,846 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:37:00,846 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 11:37:00,846 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:37:00,847 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 11:37:00,848 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:37:00,848 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 11:37:00,849 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:37:00,849 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 11:37:00,850 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:37:00,850 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 11:37:00,850 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:37:00,851 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 11:37:00,851 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:37:00,851 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 11:37:00.460047')
+2025-12-23 11:37:00,851 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:37:00,852 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 11:37:00,852 - INFO - COMMIT
+2025-12-23 11:38:36,902 - INFO - Cleaner started.
+2025-12-23 11:38:36,904 - INFO - There were 2 rows removed.
+2025-12-23 11:38:36,907 - INFO - The date and time was filled out on 2025-12-23 11:38:36.907269.
+2025-12-23 11:38:37,084 - INFO - BEGIN (implicit)
+2025-12-23 11:38:37,087 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:38:37,087 - INFO - [generated in 0.00017s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 11:38:37,089 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:38:37,090 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 11:38:37,090 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:38:37,090 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 11:38:37,091 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:38:37,091 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 11:38:37,091 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:38:37,091 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 11:38:37,092 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:38:37,092 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 11:38:37,093 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:38:37,093 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 11:38:37,094 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:38:37,094 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 11:38:37,094 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:38:37,094 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 11:38:36.906577')
+2025-12-23 11:38:37,094 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:38:37,095 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 11:38:37,095 - INFO - COMMIT
+2025-12-23 11:40:04,685 - INFO - Cleaner started.
+2025-12-23 11:40:04,687 - INFO - There were 2 rows removed.
+2025-12-23 11:40:04,692 - INFO - The date and time was filled out on 2025-12-23 11:40:04.692356.
+2025-12-23 11:40:04,877 - INFO - BEGIN (implicit)
+2025-12-23 11:40:04,879 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:40:04,879 - INFO - [generated in 0.00017s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 11:40:04,882 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:40:04,882 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 11:40:04,882 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:40:04,882 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 11:40:04,882 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:40:04,882 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 11:40:04,882 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:40:04,883 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 11:40:04,883 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:40:04,883 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 11:40:04,884 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:40:04,884 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 11:40:04,884 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:40:04,885 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 11:40:04,885 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:40:04,885 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 11:40:04.691815')
+2025-12-23 11:40:04,886 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:40:04,886 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 11:40:04,887 - INFO - COMMIT
+2025-12-23 11:50:56,512 - INFO - Cleaner started.
+2025-12-23 11:50:56,515 - INFO - There were 2 rows removed.
+2025-12-23 11:50:56,518 - INFO - The date and time was filled out on 2025-12-23 11:50:56.518004.
+2025-12-23 11:50:56,734 - INFO - BEGIN (implicit)
+2025-12-23 11:50:56,737 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:50:56,738 - INFO - [generated in 0.00027s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 11:50:56,739 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:50:56,740 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 11:50:56,740 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:50:56,741 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 11:50:56,742 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:50:56,743 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 11:50:56,745 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:50:56,745 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 11:50:56,746 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:50:56,747 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 11:50:56,748 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:50:56,749 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 11:50:56,750 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:50:56,751 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 11:50:56,753 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:50:56,754 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 11:50:56.517587')
+2025-12-23 11:50:56,754 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:50:56,755 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 11:50:56,756 - INFO - COMMIT
+2025-12-23 11:53:15,365 - INFO - Cleaner started.
+2025-12-23 11:53:15,367 - INFO - There were 2 rows removed.
+2025-12-23 11:53:15,372 - INFO - The date and time was filled out on 2025-12-23 11:53:15.372364.
+2025-12-23 11:53:15,530 - INFO - BEGIN (implicit)
+2025-12-23 11:53:15,532 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:53:15,533 - INFO - [generated in 0.00017s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 11:53:15,535 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:53:15,535 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 11:53:15,535 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:53:15,535 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 11:53:15,538 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:53:15,538 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 11:53:15,538 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:53:15,538 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 11:53:15,539 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:53:15,539 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 11:53:15,539 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:53:15,539 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 11:53:15,539 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:53:15,540 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 11:53:15,540 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:53:15,540 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 11:53:15.371682')
+2025-12-23 11:53:15,540 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:53:15,540 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 11:53:15,541 - INFO - COMMIT
+2025-12-23 11:54:57,121 - INFO - Cleaner started.
+2025-12-23 11:54:57,123 - INFO - There were 2 rows removed.
+2025-12-23 11:54:57,127 - INFO - The date and time was filled out on 2025-12-23 11:54:57.127193.
+2025-12-23 11:54:57,276 - INFO - BEGIN (implicit)
+2025-12-23 11:54:57,278 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:54:57,278 - INFO - [generated in 0.00016s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 11:54:57,280 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:54:57,280 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 11:54:57,280 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:54:57,280 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 11:54:57,281 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:54:57,281 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 11:54:57,282 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:54:57,282 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 11:54:57,283 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:54:57,283 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 11:54:57,284 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:54:57,284 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 11:54:57,284 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:54:57,285 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 11:54:57,285 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:54:57,285 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 11:54:57.126214')
+2025-12-23 11:54:57,286 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:54:57,286 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 11:54:57,287 - INFO - COMMIT
+2025-12-23 11:58:11,624 - INFO - Cleaner started.
+2025-12-23 11:58:11,626 - INFO - There were 2 rows removed.
+2025-12-23 11:58:11,629 - INFO - The date and time was filled out on 2025-12-23 11:58:11.629900.
+2025-12-23 11:58:11,820 - INFO - BEGIN (implicit)
+2025-12-23 11:58:11,823 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:58:11,824 - INFO - [generated in 0.00022s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 11:58:11,826 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:58:11,826 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 11:58:11,826 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:58:11,826 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 11:58:11,827 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:58:11,827 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 11:58:11,827 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:58:11,827 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 11:58:11,828 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:58:11,828 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 11:58:11,828 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:58:11,828 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 11:58:11,829 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:58:11,829 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 11:58:11,829 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:58:11,829 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 11:58:11.629142')
+2025-12-23 11:58:11,829 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:58:11,829 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 11:58:11,830 - INFO - COMMIT
+2025-12-23 11:59:13,778 - INFO - Cleaner started.
+2025-12-23 11:59:13,781 - INFO - There were 2 rows removed.
+2025-12-23 11:59:13,785 - INFO - The date and time was filled out on 2025-12-23 11:59:13.785298.
+2025-12-23 11:59:13,938 - INFO - BEGIN (implicit)
+2025-12-23 11:59:13,940 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:59:13,941 - INFO - [generated in 0.00016s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 11:59:13,942 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:59:13,942 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 11:59:13,943 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:59:13,943 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 11:59:13,943 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:59:13,943 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 11:59:13,944 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:59:13,944 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 11:59:13,944 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:59:13,944 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 11:59:13,945 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:59:13,945 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 11:59:13,945 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:59:13,945 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 11:59:13,946 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:59:13,946 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 11:59:13.784740')
+2025-12-23 11:59:13,946 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 11:59:13,946 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 11:59:13,947 - INFO - COMMIT
+2025-12-23 12:09:50,095 - INFO - Cleaner started.
+2025-12-23 12:09:50,097 - INFO - There were 2 rows removed.
+2025-12-23 12:09:50,101 - INFO - The date and time was filled out on 2025-12-23 12:09:50.101766.
+2025-12-23 12:09:50,288 - INFO - BEGIN (implicit)
+2025-12-23 12:09:50,292 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:09:50,293 - INFO - [generated in 0.00102s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 12:09:50,295 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:09:50,295 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 12:09:50,295 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:09:50,296 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 12:09:50,296 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:09:50,296 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 12:09:50,296 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:09:50,296 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 12:09:50,297 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:09:50,297 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 12:09:50,297 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:09:50,297 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 12:09:50,297 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:09:50,298 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 12:09:50,298 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:09:50,298 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 12:09:50.101041')
+2025-12-23 12:09:50,298 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:09:50,298 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 12:09:50,299 - INFO - COMMIT
+2025-12-23 12:12:28,720 - INFO - Cleaner started.
+2025-12-23 12:12:28,722 - INFO - There were 2 rows removed.
+2025-12-23 12:12:28,725 - INFO - The date and time was filled out on 2025-12-23 12:12:28.725641.
+2025-12-23 12:12:28,880 - INFO - BEGIN (implicit)
+2025-12-23 12:12:28,882 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:12:28,883 - INFO - [generated in 0.00017s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 12:12:28,886 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:12:28,887 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 12:12:28,887 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:12:28,887 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 12:12:28,887 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:12:28,888 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 12:12:28,888 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:12:28,888 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 12:12:28,888 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:12:28,888 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 12:12:28,889 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:12:28,889 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 12:12:28,889 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:12:28,889 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 12:12:28,889 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:12:28,890 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 12:12:28.725003')
+2025-12-23 12:12:28,890 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:12:28,890 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 12:12:28,891 - INFO - COMMIT
+2025-12-23 12:14:26,451 - INFO - Cleaner started.
+2025-12-23 12:14:26,455 - INFO - There were 2 rows removed.
+2025-12-23 12:14:26,458 - INFO - The date and time was filled out on 2025-12-23 12:14:26.458481.
+2025-12-23 12:14:26,628 - INFO - BEGIN (implicit)
+2025-12-23 12:14:26,630 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:14:26,631 - INFO - [generated in 0.00023s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 12:14:26,632 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:14:26,632 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 12:14:26,633 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:14:26,633 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 12:14:26,633 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:14:26,633 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 12:14:26,634 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:14:26,634 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 12:14:26,634 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:14:26,634 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 12:14:26,635 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:14:26,635 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 12:14:26,635 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:14:26,636 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 12:14:26,636 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:14:26,636 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 12:14:26.458015')
+2025-12-23 12:14:26,636 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:14:26,636 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 12:14:26,637 - INFO - COMMIT
+2025-12-23 12:19:41,523 - INFO - Cleaner started.
+2025-12-23 12:19:41,526 - INFO - There were 2 rows removed.
+2025-12-23 12:19:41,529 - INFO - The date and time was filled out on 2025-12-23 12:19:41.529020.
+2025-12-23 12:19:41,690 - INFO - BEGIN (implicit)
+2025-12-23 12:19:41,692 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:19:41,693 - INFO - [generated in 0.00035s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 12:19:41,694 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:19:41,694 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 12:19:41,695 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:19:41,695 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 12:19:41,695 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:19:41,695 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 12:19:41,695 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:19:41,696 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 12:19:41,696 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:19:41,696 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 12:19:41,697 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:19:41,698 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 12:19:41,699 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:19:41,699 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 12:19:41,700 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:19:41,700 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 12:19:41.528431')
+2025-12-23 12:19:41,700 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:19:41,700 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 12:19:41,701 - INFO - COMMIT
+2025-12-23 12:25:12,856 - INFO - Cleaner started.
+2025-12-23 12:25:12,860 - INFO - There were 2 rows removed.
+2025-12-23 12:25:12,864 - INFO - The date and time was filled out on 2025-12-23 12:25:12.864425.
+2025-12-23 12:25:13,080 - INFO - BEGIN (implicit)
+2025-12-23 12:25:13,082 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:25:13,082 - INFO - [generated in 0.00037s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 12:25:13,084 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:25:13,084 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 12:25:13,084 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:25:13,085 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 12:25:13,085 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:25:13,085 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 12:25:13,085 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:25:13,085 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 12:25:13,086 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:25:13,086 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 12:25:13,086 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:25:13,086 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 12:25:13,087 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:25:13,087 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 12:25:13,087 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:25:13,087 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 12:25:12.863659')
+2025-12-23 12:25:13,088 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:25:13,088 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 12:25:13,089 - INFO - COMMIT
+2025-12-23 12:37:39,764 - INFO - Cleaner started.
+2025-12-23 12:37:39,768 - INFO - There were 2 rows removed.
+2025-12-23 12:37:39,772 - INFO - The date and time was filled out on 2025-12-23 12:37:39.771966.
+2025-12-23 12:37:39,938 - INFO - BEGIN (implicit)
+2025-12-23 12:37:39,940 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:37:39,940 - INFO - [generated in 0.00017s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 12:37:39,943 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:37:39,944 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 12:37:39,944 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:37:39,945 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 12:37:39,945 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:37:39,946 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 12:37:39,946 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:37:39,946 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 12:37:39,946 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:37:39,947 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 12:37:39,947 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:37:39,947 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 12:37:39,948 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:37:39,948 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 12:37:39,948 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:37:39,948 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 12:37:39.770997')
+2025-12-23 12:37:39,948 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:37:39,949 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 12:37:39,950 - INFO - COMMIT
+2025-12-23 12:39:32,091 - INFO - Cleaner started.
+2025-12-23 12:39:32,095 - INFO - There were 2 rows removed.
+2025-12-23 12:39:32,098 - INFO - The date and time was filled out on 2025-12-23 12:39:32.098542.
+2025-12-23 12:39:32,252 - INFO - BEGIN (implicit)
+2025-12-23 12:39:32,254 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:39:32,254 - INFO - [generated in 0.00017s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 12:39:32,255 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:39:32,255 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 12:39:32,256 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:39:32,256 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 12:39:32,256 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:39:32,256 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 12:39:32,256 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:39:32,257 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 12:39:32,257 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:39:32,257 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 12:39:32,257 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:39:32,257 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 12:39:32,258 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:39:32,258 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 12:39:32,258 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:39:32,258 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 12:39:32.098043')
+2025-12-23 12:39:32,258 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:39:32,258 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 12:39:32,259 - INFO - COMMIT
+2025-12-23 12:43:35,516 - INFO - Cleaner started.
+2025-12-23 12:43:35,520 - INFO - There were 2 rows removed.
+2025-12-23 12:43:35,523 - INFO - The date and time was filled out on 2025-12-23 12:43:35.523815.
+2025-12-23 12:43:35,680 - INFO - BEGIN (implicit)
+2025-12-23 12:43:35,682 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:43:35,682 - INFO - [generated in 0.00019s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 12:43:35,685 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:43:35,686 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 12:43:35,686 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:43:35,686 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 12:43:35,686 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:43:35,686 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 12:43:35,687 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:43:35,687 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 12:43:35,687 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:43:35,687 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 12:43:35,687 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:43:35,687 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 12:43:35,688 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:43:35,688 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 12:43:35,688 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:43:35,688 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 12:43:35.522770')
+2025-12-23 12:43:35,688 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:43:35,688 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 12:43:35,689 - INFO - COMMIT
+2025-12-23 12:47:34,666 - INFO - Cleaner started.
+2025-12-23 12:47:34,668 - INFO - There were 2 rows removed.
+2025-12-23 12:47:34,672 - INFO - The date and time was filled out on 2025-12-23 12:47:34.672069.
+2025-12-23 12:47:34,842 - INFO - BEGIN (implicit)
+2025-12-23 12:47:34,844 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:47:34,844 - INFO - [generated in 0.00016s (insertmanyvalues) 1/10 (ordered; batch not supported)] (22.5, 'OK', '2025-12-02 20:22:30.000000')
+2025-12-23 12:47:34,845 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:47:34,846 - INFO - [insertmanyvalues 2/10 (ordered; batch not supported)] (24.2, 'ERROR', '2025-11-30 15:21:25.000000')
+2025-12-23 12:47:34,846 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:47:34,846 - INFO - [insertmanyvalues 3/10 (ordered; batch not supported)] (21.4, 'OFFLINE', '2025-11-28 19:18:15.000000')
+2025-12-23 12:47:34,846 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:47:34,846 - INFO - [insertmanyvalues 4/10 (ordered; batch not supported)] (21.7, 'OK', '2025-12-01 11:10:00.000000')
+2025-12-23 12:47:34,847 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:47:34,847 - INFO - [insertmanyvalues 5/10 (ordered; batch not supported)] (20.5, 'OK', '2025-12-03 07:50:10.000000')
+2025-12-23 12:47:34,847 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:47:34,847 - INFO - [insertmanyvalues 6/10 (ordered; batch not supported)] (19.5, 'OK', '2025-12-03 07:55:10.000000')
+2025-12-23 12:47:34,847 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:47:34,848 - INFO - [insertmanyvalues 7/10 (ordered; batch not supported)] (25.1, 'OK', '2025-11-29 17:55:11.000000')
+2025-12-23 12:47:34,848 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:47:34,848 - INFO - [insertmanyvalues 8/10 (ordered; batch not supported)] (23.2, 'ERROR', '2025-12-01 10:10:10.000000')
+2025-12-23 12:47:34,848 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:47:34,848 - INFO - [insertmanyvalues 9/10 (ordered; batch not supported)] (19.8, 'OK', '2025-12-23 12:47:34.671502')
+2025-12-23 12:47:34,849 - INFO - INSERT INTO sensordata (value, status, timestamp) VALUES (?, ?, ?) RETURNING sensor_id
+2025-12-23 12:47:34,849 - INFO - [insertmanyvalues 10/10 (ordered; batch not supported)] (25.2, 'BROKEN', '2025-12-01 11:11:11.000000')
+2025-12-23 12:47:34,849 - INFO - COMMIT
